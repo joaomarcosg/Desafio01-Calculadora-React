@@ -16,3 +16,5 @@ O desafio consiste em criar uma calculadora com as operações básicas usando c
 
 Dei continuidade nas operações que faltavam desenvolver: *multiplicação* e *divisão*. Mas além delas, acrescentei as operações de *exponenciação (^)*, *porcentagem (%)* e *raiz quadrada (Sqrt)*. Logo, desenvolvi os componentes necessários que faltavam.
 
+![calculadora-react](image.png)
+
